@@ -2,7 +2,7 @@
  
 This repository contains the code used to implement experiments on injecting subjectivity into LLM-generated annotations via persona descriptions. For detailed information, refer to our paper:
  
-> Fröhling, L., Demartini, G. & Assenmacher, D. (2024). *Personas with Attitudes: Controlling LLMs for Diverse Data Annotation*. arxiv identifier coming soon...
+> Fröhling, L., Demartini, G. & Assenmacher, D. (2024). *Personas with Attitudes: Controlling LLMs for Diverse Data Annotation*. arXiv preprint [arXiv:2410.11475](http://arxiv.org/abs/2410.11745)
  
 ## Reproducing LLM Annotations
  
